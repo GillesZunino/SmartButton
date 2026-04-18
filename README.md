@@ -1,6 +1,6 @@
-# SmartButton ([pdf](https://github.com/GillesZunino/SmartButton/blob/main/Pictures/SmartButton.pdf?raw=true))
+# SmartButton ([pdf](https://github.com/GillesZunino/SmartButton/blob/main/Pictures/SmartButton.pdf))
 
-![Schematics](https://github.com/GillesZunino/SmartButton/blob/main/Pictures/SmartButton.svg?raw=true)
+![Schematics](https://raw.githubusercontent.com/GillesZunino/SmartButton/main/Pictures/SmartButton.svg)
 
 # Battery Measurement Circuit Characterization ([XLXS](https://github.com/GillesZunino/SmartButton/blob/main/Data/SmartButton-Battery-Voltage-Divider-Characterization.xlsx?raw=true))
 
